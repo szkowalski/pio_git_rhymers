@@ -15,3 +15,4 @@ public class HanoiRhymer extends defaultCountingOutRhymer {
 			super.countIn(in);
 	}
 }
+//  Kombinacje klawiszy alt + ← oraz alt + → pozwalają na nawigowanie po otwartych plikach
